@@ -1,0 +1,37 @@
+_repo: M-moires-pour-servir---l-Histoire-de-mon-temps--Tome-8-_18695
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Guizot, François
+    aliases:
+    - Guizot, Francois Pierre Guillaume
+    - Guizot, François Pierre Guillaume
+    - Guizot, Monsieur (François)
+    - Guizot, M. (François)
+    - Guisot, M. (François)
+    birthdate: 1787
+    deathdate: 1874
+    gutenberg_agent_id: '5686'
+    url: http://www.gutenberg.org/2009/agents/5686
+    wikipedia: http://en.wikipedia.org/wiki/François_Guizot
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2006-06-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18695'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Politics and government -- 1830-1848'
+- !lcsh 'Guizot, M. (François), 1787-1874'
+- !lcsh 'France -- Politics and government -- 1814-1830'
+- !lcsh 'France -- Foreign relations -- 1815-1848'
+- !lcc 'DC'
+title: Mémoires pour servir à l'Histoire de mon temps (Tome 8)
+url: http://www.gutenberg.org/ebooks/18695
