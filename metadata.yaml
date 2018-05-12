@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5686
     wikipedia: http://en.wikipedia.org/wiki/François_Guizot
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18695#M-moires-pour-servir---l-Histoire-de-mon-temps--Tome-8-
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2006-06-26'
 gutenberg_type: Text
